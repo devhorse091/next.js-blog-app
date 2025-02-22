@@ -83,7 +83,7 @@ Want to get up and running quickly? Follow these steps:
 - [Clone the repository](https://help.github.com/articles/cloning-a-repository/) it to your local device.
 
   ```sh
-  git clone https://github.com/timtbdev/Next.js-Blog-App.git
+  git clone git clone https://github.com/devhorse091/Next.js-Blog-App.git
   ```
 
 - Set up your [Supabase Database](https://supabase.com/docs/guides/database) and Auth wit with [Social Logins](https://supabase.com/docs/guides/auth/social-login)
